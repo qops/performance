@@ -24,6 +24,7 @@ jstack(jvm)
 ```
 
 #### Network & IO
+```
 netstat
 ifconfig
 ip
@@ -35,7 +36,7 @@ wireshark
 tcpdump
 dstat
 vmstat
-
+```
 #### Trace
 ```
 truss
